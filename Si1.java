@@ -1,5 +1,5 @@
-package com.vnrvjiet.ankitha.SimpleInterest.SI;
-import com.vnrvjiet.ankitha.compoundInterest.CI;
+package com.vnrvjiet.reethu.SimpleInterest.SI;
+import com.vnrvjiet.reethu.compoundInterest.CI;
 
 import java.util.*;
 

@@ -1,8 +1,8 @@
-package com.vnrvjiet.ankitha.compoundInterest;
+package com.vnrvjiet.reethu.compoundInterest;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import com.vnrvjiet.ankitha.SimpleInterest.SI.Si;
+import com.vnrvjiet.reethu.SimpleInterest.SI.Si;
 
 public class CI {
 	//creating logger object fro a class CI
